@@ -1,0 +1,2 @@
+#!/bin/nash
+echo $((2#$BINARY))
